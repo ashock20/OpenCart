@@ -1,0 +1,14 @@
+2025-08-04 14:36:07 INFO  AccountRegistrationTest:18 - ******loger message start *******
+2025-08-04 14:36:07 INFO  AccountRegistrationTest:20 - ******click account *******
+2025-08-04 14:36:14 INFO  AccountRegistrationTest:28 - ******enter details*******
+2025-08-04 14:36:15 INFO  AccountRegistrationTest:34 - ******enter password*******
+2025-08-04 14:36:17 INFO  AccountRegistrationTest:40 - ******validate message *******
+2025-08-04 14:36:21 INFO  TC002_LoginPage:16 - ***** start login procerss*****
+2025-08-04 14:36:24 INFO  TC002_LoginPage:38 - ******loing end**************
+2025-08-04 16:54:08 INFO  AccountRegistrationTest:18 - ******loger message start *******
+2025-08-04 16:54:08 INFO  AccountRegistrationTest:20 - ******click account *******
+2025-08-04 16:54:15 INFO  AccountRegistrationTest:28 - ******enter details*******
+2025-08-04 16:54:16 INFO  AccountRegistrationTest:34 - ******enter password*******
+2025-08-04 16:54:19 INFO  AccountRegistrationTest:40 - ******validate message *******
+2025-08-04 16:54:23 INFO  TC002_LoginPage:16 - ***** start login procerss*****
+2025-08-04 16:54:25 INFO  TC002_LoginPage:38 - ******loing end**************
